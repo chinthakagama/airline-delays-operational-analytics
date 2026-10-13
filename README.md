@@ -4,6 +4,11 @@ An end-to-end portfolio project analysing **1,658,259 flight records from Q1 202
 
 The project examines flight reliability, identifies periods and locations of disruption, and compares recorded delay causes. It preserves cancelled and diverted flights, validates the data before aggregation, and uses explicit eligibility rules for arrival-delay metrics.
 
+## Dashboard preview
+
+![Airline Operational Performance dashboard for Q1 2024](dashboard/operational_overview.png)
+
+
 ## Business problem
 
 Operational stakeholders need to understand when reliability deteriorates, which carriers and routes warrant investigation, and how frequently and severely passengers experience disruption. Counts alone can be misleading: high-volume carriers can have many delayed flights while maintaining a comparatively low delay rate.
