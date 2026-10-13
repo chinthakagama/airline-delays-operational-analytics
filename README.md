@@ -8,6 +8,9 @@ The project examines flight reliability, identifies periods and locations of dis
 
 ![Airline Operational Performance dashboard for Q1 2024](dashboard/operational_overview.png)
 
+## Download the Power BI report
+
+[Download the Power BI file](https://github.com/chinthakagama/airline-delays-operational-analytics/releases/latest)
 
 ## Business problem
 
