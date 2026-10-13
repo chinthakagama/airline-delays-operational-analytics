@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+
+# Credentials and local settings
+.env
+.env.*
+!.env.example
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Large source datasets — adjust to your folder structure
+data/raw/
+*.parquet
+*.zip
